@@ -1,9 +1,10 @@
-## Hi there 👋
+## ПРИВЕТ ВСЕМ 👋
 
 <!--
-**muhammadjon-coder/muhammadjon-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muhammadjon-coder/muhammadjon-coder** является✨ "специальным" ✨ репозиторием, потому что его "README.md` (этот файл) отображается в вашем профиле на GitHub.
 
-Here are some ideas to get you started:
+
+Вот несколько идей, которые помогут вам начать:
 
 - 🔭 я учусь в Astrum IT Academy ...
 - 🌱 я python backend програмер ...
